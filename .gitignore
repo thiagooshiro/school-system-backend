@@ -1,0 +1,9 @@
+# Things I need to revise
+reviseChat.md
+
+# Virtual enviro
+.venv
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
